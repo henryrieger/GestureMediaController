@@ -27,8 +27,8 @@ This project is an interactive desktop application that combines computer vision
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/gesture-fractal-visualizer.git
-cd gesture-fractal-visualizer
+git clone https://github.com/yourusername/GestureFractalVisualizer.git
+cd GestureFractalVisualizer
 ```
 
 2. **Install Dependencies**
@@ -40,7 +40,7 @@ pip install opencv-python mediapipe pyautogui pygame numpy
 4. **Run the app:**
 
 ```
-python gesture_fractal_controller.py
+python audio_control.py
 ```
 
 **Gesture Mappings**
@@ -50,5 +50,5 @@ Left Hand Pinch: Volume Up/Down
 Right Index Up:	Next Track (Ctrl + →)
 Right Pinky Up:	Previous Track
 Right Open Palm: Toggle Play/Pause
-Left Thumb + Middle Touch:	Exit App
+Left Thumb + Middle Touch: Exit App
 ```
