@@ -1,8 +1,8 @@
-# 🎵 Hand Gesture-Controlled Fractal Visualizer & Media Controller
+# Hand Gesture-Controlled Fractal Visualizer & Media Controller
 
 This project is an interactive desktop application that combines computer vision and visual art. It allows users to **control media playback** (play/pause, skip, volume) using **hand gestures** via webcam, while a **real-time fractal animation** responds visually to these gestures. It's built with Python using `MediaPipe`, `OpenCV`, `PyAutoGUI`, `Pygame`, and `NumPy`.
 
-## ✨ Features
+## Features
 
 - **Hand Gesture Recognition** via webcam using MediaPipe.
 - **Media Controls**:
@@ -13,12 +13,7 @@ This project is an interactive desktop application that combines computer vision
 - Runs in a windowed mode and can be resized as needed.
 - Utilizes smoothing and cooldown logic for accurate and user-friendly gesture input.
 
-## 📸 Demo
-
-<!-- Replace the link below with your actual demo link or gif -->
-![Demo GIF](https://github.com/yourusername/yourrepo/assets/demo.gif)
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python**
 - [MediaPipe](https://google.github.io/mediapipe/)
@@ -27,7 +22,7 @@ This project is an interactive desktop application that combines computer vision
 - [Pygame](https://www.pygame.org/)
 - NumPy, math, time
 
-## 📦 Setup Instructions
+## Setup Instructions
 
 1. **Clone the repository:**
 
