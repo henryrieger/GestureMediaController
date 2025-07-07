@@ -9,7 +9,7 @@ This project is an interactive desktop application that combines computer vision
   - **Volume control** with left-hand pinch distance.
   - **Play/Pause** with open palm.
   - **Next/Previous track** with index/pinky finger gestures.
-- **Colorized Visuals** that evolves based on gestures and plays in real-time using `Pygame`.
+- **Colorized Visuals** that evolve based on gestures and play in real-time using `Pygame`.
 - Runs in a windowed mode and can be resized as needed.
 - Utilizes smoothing and cooldown logic for accurate and user-friendly gesture input.
 
